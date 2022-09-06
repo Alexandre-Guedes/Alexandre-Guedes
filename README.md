@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexandre-Guedes
 - 👀 I’m interested in new technlogies
 - 🌱 I’m currently learning new things about coding and management
-- 💻 i'm a student in France in BUT MMI
+- 💻 I'm a student in France in BUT MMI
 - 
 
 <!---
